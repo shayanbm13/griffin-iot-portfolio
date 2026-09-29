@@ -19,9 +19,9 @@
 
 ## تصاویر
 
-<p align="center"><img src="../../assets/touch-panel/touch-panel-1.jpg" width="800" /></p>
-<p align="center"><img src="../../assets/touch-panel/touch-panel-2.jpg" width="800" /></p>
-<p align="center"><img src="../../assets/touch-panel/touch-panel-3.jpg" width="800" /></p>
+<p align="center"><img src="../../assets/touch-panel/touch%20panel%201.jpeg" width="800" /></p>
+<p align="center"><img src="../../assets/touch-panel/touch%20panel%202.jpeg" width="800" /></p>
+<p align="center"><img src="../../assets/touch-panel/touch%20panel%203.jpeg" width="800" /></p>
 
 ## کد منبع
 
