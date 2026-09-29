@@ -28,9 +28,9 @@
 نسخه Kotlin و نسخه Flutter مربوط به یک خانواده محصول هستند و از طراحی رابط کاربری مشابه استفاده می‌کنند.
 
 <p align="center">
-  <img src="../../assets/mobile/app-mobile-1.jpg" width="180" />
-  <img src="../../assets/mobile/app-mobile-3.jpg" width="180" />
-  <img src="../../assets/mobile/app-mobile-6.jpg" width="180" />
+  <img src="../../assets/mobile/app%20mobile%201.jpg" width="180" />
+  <img src="../../assets/mobile/app%20mobile%203.jpg" width="180" />
+  <img src="../../assets/mobile/app%20mobile%206.jpg" width="180" />
 </p>
 
 ## کد منبع
