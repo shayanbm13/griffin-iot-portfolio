@@ -23,8 +23,8 @@
 
 ## تصاویر
 
-<p align="center"><img src="../../assets/rack-monitoring/rack-1.jpg" width="900" /></p>
-<p align="center"><img src="../../assets/rack-monitoring/rack-2.jpg" width="900" /></p>
+<p align="center"><img src="../../assets/rack-monitoring/rak%20screenshot%201.png" width="900" /></p>
+<p align="center"><img src="../../assets/rack-monitoring/rak%20screenshot%202.png" width="900" /></p>
 
 ## کد منبع
 
