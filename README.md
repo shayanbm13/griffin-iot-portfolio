@@ -1,3 +1,60 @@
+# نمونه‌کارهای Griffin IoT و خانه هوشمند
+
+مجموعه‌ای از پروژه‌های **اینترنت اشیا، خانه هوشمند، مانیتورینگ و اتوماسیون** که برای اکوسیستم Griffin طراحی و توسعه داده شده‌اند.
+
+> **کد منبع این پروژه‌ها مالکیتی و تجاری است و در این مخزن منتشر نشده است.**  
+> این مخزن فقط برای معرفی نمونه‌کارها، قابلیت‌ها و تصاویر پروژه‌ها ایجاد شده است.
+
+## پروژه‌ها
+
+### 📱 اپلیکیشن کراس‌پلتفرم خانه هوشمند — Flutter
+
+اپلیکیشن خانه هوشمند Griffin با **Flutter** برای Android و iOS توسعه داده شده است و یک رابط یکپارچه برای کنترل تجهیزات از طریق شبکه محلی، اینترنت و پیامک ارائه می‌دهد.
+
+**قابلیت‌ها:** ارتباط کم‌تاخیر UDP، کنترل روشنایی، پریزها، شیرهای آب و گاز، پرده برقی، مانیتورینگ دما، سناریوها، علاقه‌مندی‌ها، حالت‌های امنیتی، اطلاعات آب‌وهوا و همگام‌سازی با پنل لمسی Griffin.
+
+**تکنولوژی‌ها:** `Flutter` `Dart` `UDP` `REST API` `IoT` `OpenWeather API`
+
+➡️ [مشاهده پروژه](projects/flutter-smart-home/README.md)
+
+---
+
+### 🤖 اپلیکیشن Native اندروید — Kotlin
+
+نسخه Native اندروید اپلیکیشن خانه هوشمند Griffin که با **Kotlin** توسعه داده شده است. این برنامه از کنترل محلی از طریق Wi-Fi و UDP، کنترل اینترنتی و کنترل جایگزین از طریق SMS پشتیبانی می‌کند و با پنل لمسی Griffin همگام می‌شود.
+
+**تکنولوژی‌ها:** `Kotlin` `Android` `UDP` `Networking` `REST API` `IoT`
+
+➡️ [مشاهده پروژه](projects/android-kotlin-smart-home/README.md)
+
+---
+
+### 🖥️ پنل لمسی خانه هوشمند Griffin
+
+پنل گرافیکی اختصاصی برای مدیریت مرکزی خانه هوشمند که کنترل تجهیزات، امنیت، سناریوها، علاقه‌مندی‌ها، اطلاعات محیطی، موسیقی، دوربین و اینترکام را در یک رابط واحد ارائه می‌دهد.
+
+➡️ [مشاهده پروژه](projects/smart-home-touch-panel/README.md)
+
+---
+
+### 🗄️ نرم‌افزار مانیتورینگ هوشمند رک شبکه
+
+نرم‌افزار دسکتاپ برای پایش هوشمند رک‌های شبکه و محیط دیتاسنتر با مانیتورینگ لحظه‌ای دما، رطوبت و پارامترهای الکتریکی و نمایش هشدارهای دود، حرکت، ورود، ژنراتور و افزایش دما.
+
+➡️ [مشاهده پروژه](projects/network-rack-monitoring/README.md)
+
+---
+
+## درباره اکوسیستم Griffin
+
+Griffin یک اکوسیستم IoT و خانه هوشمند است که تجهیزات Embedded، اپلیکیشن‌های موبایل، ارتباط شبکه محلی و مدیریت از راه دور را در یک پلتفرم یکپارچه ترکیب می‌کند.
+
+## درباره کد منبع
+
+پروژه‌های این مخزن تجاری و Proprietary هستند. به همین دلیل کد منبع، اطلاعات دسترسی، تنظیمات سرور و Firmware دستگاه‌ها به‌صورت عمومی منتشر نشده‌اند.
+
+---
+
 # Griffin IoT & Smart Home Portfolio
 
 A portfolio of **IoT, Smart Home, monitoring and automation applications** designed and developed for the Griffin ecosystem.
@@ -17,38 +74,22 @@ Cross-platform smart home application built with **Flutter** for Android and iOS
 
 ➡️ [View project](projects/flutter-smart-home/README.md)
 
----
-
 ### 🤖 Native Android Smart Home Application — Kotlin
 
-Native Android implementation of the Griffin Smart Home application, developed with **Kotlin**. It supports local Wi-Fi control, UDP packet communication, remote Internet control and SMS fallback, while synchronizing with the Griffin Touch Panel.
+Native Android implementation of the Griffin Smart Home application, developed with **Kotlin**.
 
 **Tech:** `Kotlin` `Android` `UDP` `Networking` `REST API` `IoT`
 
 ➡️ [View project](projects/android-kotlin-smart-home/README.md)
 
----
-
 ### 🖥️ Griffin Smart Home Touch Panel
 
-A dedicated graphical control panel for centralized smart-home management. It brings together device control, security modes, scenarios, favorites, environmental information, music, camera and intercom interfaces in a single UI.
+A dedicated graphical control panel for centralized smart-home management.
 
 ➡️ [View project](projects/smart-home-touch-panel/README.md)
 
----
-
 ### 🗄️ Smart Network Rack Monitoring Application
 
-Desktop monitoring software for intelligent network-rack and datacenter supervision. It provides live temperature, humidity and electrical monitoring alongside alarms for smoke, motion, entry, generator status and temperature rise.
+Desktop monitoring software for intelligent network-rack and datacenter supervision.
 
 ➡️ [View project](projects/network-rack-monitoring/README.md)
-
----
-
-## About the Griffin Ecosystem
-
-Griffin is an IoT and Smart Home ecosystem that integrates embedded devices, mobile applications, local-network communication and remote management into a unified platform.
-
-## Repository Notice
-
-The projects shown here are commercial/proprietary projects. Source code, credentials, server configuration and device firmware are intentionally not published. Screenshots and technical descriptions are provided for portfolio and demonstration purposes.
